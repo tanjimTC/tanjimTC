@@ -72,6 +72,8 @@
 
   <img align="left" alt="Tanjim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanjimTC&show_icons=true&hide_border=true&hide=issues,contribs&theme=radical" />
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimTC&layout=compact)](https://github.com/tanjimTC/github-readme-stats)
+
 <!-- ---
 <br />
 <br />
