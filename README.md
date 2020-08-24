@@ -1,5 +1,7 @@
 ### Hi there, I'm Musarrat Anjum Chowdhury - aka [Tanjim][website] 👋
+
 ---
+
 <!-- [![Website](https://img.shields.io/website?label=Musarrat&style=for-the-badge&url=https%3A%2F%2FMusarrat)](https://tanjim-chowdhury.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
@@ -44,9 +46,10 @@
 
 ---
 
-### 📕  Blog Posts
+### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [What the hack are hooks in React❓](https://medium.com/@tanjimtc74/what-the-hack-are-hooks-in-react-16b4027cd6ba)
 
 - [What the hack are hooks in React❓](https://medium.com/@tanjimtc74/what-the-hack-are-hooks-in-react-16b4027cd6ba)
@@ -57,7 +60,7 @@
 
 <!-- <details>
   <summary>:zap: Recent Github Activity</summary> -->
-  
+
 <!--START_SECTION:activity-->
 <!-- 1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
@@ -68,17 +71,20 @@
 
 <!-- </details> -->
 
-  :zap: Github Stats
+:zap: Github Stats
 
   <img align="left" alt="Tanjim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanjimTC&show_icons=true&hide_border=true&hide=issues,contribs&theme=radical" />
 
+  <details> 
+    <summary>:zap:Most Used Languages</summary>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimTC&layout=compact)](https://github.com/tanjimTC/github-readme-stats)
-
+</details>
 <!-- ---
 <br />
 <br />
 
 ### Spotify Playing 🎧
+
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Tanjim Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 [website]: https://tanjim-chowdhury.web.app/
