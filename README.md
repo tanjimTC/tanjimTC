@@ -1,5 +1,5 @@
 ### Hi there, I'm Musarrat Anjum Chowdhury - aka [Tanjim][website] 👋
-
+---
 ## I'm a Student, Developer, and Lifelong Learner!
 
 - 🔭 I’m currently working with MERN STACK !
@@ -61,6 +61,8 @@
 :zap: Github Stats
 
   <img align="left" alt="Tanjim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanjimTC&show_icons=true&hide_border=true&hide=issues,contribs&theme=radical" />
+
+<br/>
 
 ---
 [website]: https://tanjim-chowdhury.web.app/
