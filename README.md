@@ -8,11 +8,8 @@
 - 🔭 I’m currently working with MERN STACK !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: I plan on getting more familiar with the JavaScript eco-system, and stay healthy & motivated !
 - ⚡ Fun fact: I'm tech freak and love to play Battlefield
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Tanjim Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -74,9 +71,12 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Tanjim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanjimTC&show_icons=true&hide_border=true" />
+  <img align="left" alt="Tanjim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanjimTC&show_icons=true&hide_border=true&hide=issues,contribs" />
 
 </details>
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Tanjim Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 [website]: https://tanjim-chowdhury.web.app/
 [facebook]: https://www.facebook.com/tanjim.chowdhurymac/
