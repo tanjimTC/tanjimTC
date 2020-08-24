@@ -62,9 +62,6 @@
 
   <img align="left" alt="Tanjim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanjimTC&show_icons=true&hide_border=true&hide=issues,contribs&theme=radical" />
 
-<br/>
-
----
 [website]: https://tanjim-chowdhury.web.app/
 [facebook]: https://www.facebook.com/tanjim.chowdhurymac/
 [instagram]: https://www.instagram.com/tanjim_tc/
