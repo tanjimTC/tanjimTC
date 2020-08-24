@@ -57,7 +57,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
+  <details> 
+    <summary>:zap:Most Used Languages</summary>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimTC&layout=compact)](https://github.com/tanjimTC/github-readme-stats)
+  </details>
 <!-- <details>
   <summary>:zap: Recent Github Activity</summary> -->
 
@@ -74,15 +77,7 @@
 :zap: Github Stats
 
   <img align="left" alt="Tanjim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanjimTC&show_icons=true&hide_border=true&hide=issues,contribs&theme=radical" />
- <br/>
-   ---
-  <details> 
-    <summary>:zap:Most Used Languages</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimTC&layout=compact)](https://github.com/tanjimTC/github-readme-stats)
-  </details>
-<!-- ---
-<br />
-<br />
+
 
 <!-- ### Spotify Playing 🎧
 
