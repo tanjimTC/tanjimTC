@@ -1,8 +1,6 @@
-## Hi there, I'm Musarrat Anjum Chowdhury - aka [Tanjim][website] 👋
+### Hi there, I'm Musarrat Anjum Chowdhury - aka [Tanjim][website] 👋
 
----
-
-### I'm a Student, Developer, and Lifelong Learner!
+## I'm a Student, Developer, and Lifelong Learner!
 
 - 🔭 I’m currently working with MERN STACK !
 - 🌱 I’m currently learning everything 🤣
