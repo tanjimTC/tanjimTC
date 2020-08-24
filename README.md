@@ -1,11 +1,8 @@
-### Hi there, I'm Musarrat Anjum Chowdhury - aka [Tanjim][website] 👋
+## Hi there, I'm Musarrat Anjum Chowdhury - aka [Tanjim][website] 👋
 
 ---
 
-<!-- [![Website](https://img.shields.io/website?label=Musarrat&style=for-the-badge&url=https%3A%2F%2FMusarrat)](https://tanjim-chowdhury.web.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
-## I'm a Student, Developer, and Lifelong Learner!
+### I'm a Student, Developer, and Lifelong Learner!
 
 - 🔭 I’m currently working with MERN STACK !
 - 🌱 I’m currently learning everything 🤣
@@ -22,6 +19,7 @@
 [<img align="left" alt="Musarrat | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+---
 
 ### Languages and Tools:
 
@@ -62,23 +60,11 @@
 
 ---
 
-<!-- <details>
-  <summary>:zap: Recent Github Activity</summary> -->
-
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme) -->
-<!--END_SECTION:activity-->
-
-<!-- </details> -->
-
 :zap: Github Stats
 
   <img align="left" alt="Tanjim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanjimTC&show_icons=true&hide_border=true&hide=issues,contribs&theme=radical" />
 
+---
 [website]: https://tanjim-chowdhury.web.app/
 [facebook]: https://www.facebook.com/tanjim.chowdhurymac/
 [instagram]: https://www.instagram.com/tanjim_tc/
