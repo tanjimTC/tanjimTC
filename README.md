@@ -57,7 +57,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimTC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimTC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <!-- <details>
   <summary>:zap: Recent Github Activity</summary> -->
 
@@ -74,11 +78,6 @@
 :zap: Github Stats
 
   <img align="left" alt="Tanjim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanjimTC&show_icons=true&hide_border=true&hide=issues,contribs&theme=radical" />
-
-
-<!-- ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Tanjim Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)  -->
 
 [website]: https://tanjim-chowdhury.web.app/
 [facebook]: https://www.facebook.com/tanjim.chowdhurymac/
