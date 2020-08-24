@@ -1,6 +1,6 @@
 ### Hi there, I'm Musarrat Anjum Chowdhury - aka [Tanjim][website] 👋
 
-![Website](https://img.shields.io/website?logo=Globe&up_message=Visit&url=https%3A%2F%2Ftanjim-chowdhury.web.app%2F)
+![Website](https://img.shields.io/website?logo=Globe&up_message=Visit&url=https/tanjim-chowdhury.web.app)
 ---
 ## I'm a Student, Developer, and Lifelong Learner!
 
