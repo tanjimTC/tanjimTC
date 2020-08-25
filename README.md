@@ -1,7 +1,7 @@
 ### Hi there, I'm Musarrat Anjum Chowdhury - aka [Tanjim][website] 👋
 
 [![Website](https://img.shields.io/website?label=tanjim-chowdhury.web.app&up_message=visit&style=for-the-badge&url=https%3A%2F%2Ftanjim-chowdhury.web.app)](https://tanjim-chowdhury.web.app/)
-## I'm a Student, Developer, and Lifelong Learner!
+## 🧍 I'm a Student, Developer, and Lifelong Learner!
 
 - 🔭 I’m currently working with MERN STACK ! 🤞
 - 🌱 I’m currently learning everything 💡
@@ -9,7 +9,7 @@
 - 🥅 2020 Goals: I plan on getting more familiar with the JavaScript eco-system, and stay healthy & motivated ! 💻
 - ⚡ Fun fact: I'm tech freak and love to play Battlefield ! 🎮
 
-### Connect with me:
+### 💬 Connect with me:
 
 [<img align="left" alt="Musarrat" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Musarrat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -21,7 +21,7 @@
 
 ---
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
@@ -51,7 +51,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-:zap: Top languages
+💻 Top languages
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 <br/>
