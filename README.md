@@ -51,7 +51,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-💻 Top languages
+### 💻 Top languages
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 <br/>
@@ -61,7 +61,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
-:zap: Github Stats
+### :zap: Github Stats
 
   <img align="left" alt="Tanjim's Github Stats" src="https://github-readme-stats.tanjim.vercel.app/api?username=tanjimTC&show_icons=true&hide_border=true&hide=issues,contribs&theme=radical" />
 
