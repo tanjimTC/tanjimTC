@@ -32,8 +32,6 @@
 
 [<img  alt="php" width="50px" src="https://www.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" />][website]
 
-## <br/>
-
 [<img align="left" alt="HTML5 CSS3 JavaScript" src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="60" />][website]
 
 [<img align="left" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />][website]
@@ -52,9 +50,9 @@
 
 [<img align="left"  alt="Material UI" width="40px" src="https://material-ui.com/static/logo_raw.svg" />][website]
 
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 
-[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+[<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 <br />
 <br />
