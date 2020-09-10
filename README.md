@@ -26,7 +26,7 @@
 
 [<img align="left" alt="C" width="50px" src="https://www.iconfinder.com/data/icons/hawcons/32/700047-icon-88-document-file-c-512.png" />][website]
 
-[<img align="left" alt="C++" width="40px" src="https://www.iconfinder.com/data/icons/development-2-yellow/60/9_-C_File-_development_coding_programming_code-512.png" />][website]
+[<img align="left" alt="C++" width="50px" src="https://www.iconfinder.com/data/icons/development-2-yellow/60/9_-C_File-_development_coding_programming_code-512.png" />][website]
 
 [<img align="left" alt="python" width="40px" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][website]
 
@@ -34,7 +34,7 @@
 
 [<img align="left" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />][website]
 
-[<img alt="HTML5 CSS3 JavaScript" src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />][website]
+[<img align="left" alt="HTML5 CSS3 JavaScript" src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="60" />][website]
 
 [<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 
