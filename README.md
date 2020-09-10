@@ -26,7 +26,7 @@
 
 [<img align="left" alt="C" width="50px" src="https://www.iconfinder.com/data/icons/hawcons/32/700047-icon-88-document-file-c-512.png" />][website]
 
-[<img align="left" alt="C++" width="50px" src="https://www.iconfinder.com/data/icons/development-2-yellow/60/9_-C_File-_development_coding_programming_code-512.png" />][website]
+[<img align="left" alt="C++" width="45px" src="https://www.iconfinder.com/data/icons/development-2-yellow/60/9_-C_File-_development_coding_programming_code-512.png" />][website]
 
 [<img align="left" alt="python" width="40px" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][website]
 
@@ -48,9 +48,9 @@
 
 [<img align="left" alt="Expressjs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][website]
 
-[<img  alt="MongoDB" src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="70" />][website]
+[<img align="left"  alt="MongoDB" src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="70" />][website]
 
-## <br/>
+##
 
 [<img align="left" alt="Material UI" width="40px" src="https://material-ui.com/static/logo_raw.svg" />][website]
 
