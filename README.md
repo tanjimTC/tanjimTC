@@ -48,9 +48,7 @@
 
 [<img align="left" alt="Expressjs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][website]
 
-[<img   alt="MongoDB" src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="70" />][website]
-
-##
+[<img   alt="MongoDB" src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="60" />][website]
 
 [<img align="left"  alt="Material UI" width="40px" src="https://material-ui.com/static/logo_raw.svg" />][website]
 
