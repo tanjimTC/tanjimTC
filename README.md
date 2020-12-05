@@ -4,7 +4,7 @@
 
 ## 🧍 I'm a Student, Developer, and Lifelong Learner!
 
-- 🔭 I’m currently working with MERN STACK ! 🤞
+- 🔭 I’m currently working with MERN and MEVN STACK ! 🤞
 - 🌱 I’m currently learning everything 💡
 - 👯 I’m looking to collaborate with other developers 🤝
 - 🥅 2020 Goals: I plan on getting more familiar with the JavaScript eco-system, and stay healthy & motivated ! 💻
@@ -43,6 +43,8 @@
 [<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 
 [<img align="left" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][website]
+
+[<img align="left" alt="Vue" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][website]
 
 [<img align="left" alt="Nodejs" width="50px" src="https://www.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" />][website]
 
