@@ -7,7 +7,7 @@
 - 🔭 I’m currently working with MERN and MEVN STACK ! 🤞
 - 🌱 I’m currently learning everything 💡
 - 👯 I’m looking to collaborate with other developers 🤝
-- 🥅 2020 Goals: I plan on getting more familiar with the JavaScript eco-system, and stay healthy & motivated ! 💻
+- 🥅 2021 Goals: I plan on getting more familiar with the JavaScript eco-system, and stay healthy & motivated ! 💻
 - ⚡ Fun fact: I'm tech freak and love to play Battlefield ! 🎮
 
 ### 💬 Connect with me:
