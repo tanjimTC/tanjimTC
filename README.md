@@ -42,11 +42,13 @@
 
 [<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 
+[<img align="left" alt="NextJs" width="50px" src="https://dl.dropboxusercontent.com/s/epard9fqf4brooa/nextjs.png" />][website]
+
 [<img align="left" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][website]
 
 [<img align="left" alt="Vue" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][website]
 
-[<img align="left" alt="Nodejs" width="50px" src="https://www.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" />][website]
+[<img align="left" alt="Nodejs" width="50px" src="https://dl.dropboxusercontent.com/s/h17p4swd2c9xy05/4anecy5mdl4pho8w7519.jpg" />][website]
 
 [<img align="left" alt="Expressjs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][website]
 
