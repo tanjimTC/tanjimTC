@@ -23,13 +23,13 @@
 
 ### 🛠️ Languages and Tools:
 
-[<img align="left" alt="C" width="50px" src="https://dl.dropboxusercontent.com/s/rmdym0tksu3rfaa/1280px-C_Programming_Language.svg.png" />][website]
+[<img align="left" alt="C" width="45px" src="https://dl.dropboxusercontent.com/s/rmdym0tksu3rfaa/1280px-C_Programming_Language.svg.png" />][website]
 
 [<img align="left" alt="C++" width="45px" src="https://dl.dropboxusercontent.com/s/sw7uiiwjxewghd5/1200px-ISO_C%2B%2B_Logo.png" />][website]
 
-[<img align="left" alt="python" width="40px" src="https://dl.dropboxusercontent.com/s/hz4o97hv3ts9em3/4990671.png" />][website]
+[<img align="left" alt="python" width="45px" src="https://dl.dropboxusercontent.com/s/hz4o97hv3ts9em3/4990671.png" />][website]
 
-[<img  alt="php" width="50px" src="https://dl.dropboxusercontent.com/s/78m7vfikga006zv/1443983.png" />][website]
+[<img  alt="php" width="45px" src="https://dl.dropboxusercontent.com/s/78m7vfikga006zv/1443983.png" />][website]
 
 ##
 
