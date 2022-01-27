@@ -51,7 +51,7 @@
 
 [<img align="left" alt="Nodejs" width="50px" src="https://dl.dropboxusercontent.com/s/h17p4swd2c9xy05/4anecy5mdl4pho8w7519.jpg" />][website]
 
-[<img align="left" alt="laravel" width="60px" src="https://dl.dropboxusercontent.com/s/gszfxt30iew4nuy/laravel.png" />][website]
+[<img align="left" alt="laravel" width="70px" src="https://dl.dropboxusercontent.com/s/gszfxt30iew4nuy/laravel.png" />][website]
 
 [<img align="left" alt="Expressjs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][website]
 
@@ -59,7 +59,7 @@
 
 [<img align="left"  alt="Material UI" width="40px" src="https://dl.dropboxusercontent.com/s/utylof1k8c7pj4k/material-ui-logo.png" />][website]
 
-[<img align="left"  alt="tailwind-css" width="60px" src="https://dl.dropboxusercontent.com/s/4568q9pfjeor1nf/tailwind-css.png" />][website]
+[<img align="left"  alt="tailwind-css" width="60px" src="https://dl.dropboxusercontent.com/s/n1ow0qa5es94ypa/tailwindcss.png" />][website]
 
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 
