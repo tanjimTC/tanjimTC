@@ -11,11 +11,11 @@
 
 ### 💬 Connect with me:
 
-[<img align="left" alt="Musarrat" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Musarrat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Musarrat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Musarrat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Musarrat | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Musarrat" width="25px" src="https://dl.dropboxusercontent.com/s/xkgvh9eq3tlqgif/www.png" />][website]
+[<img align="left" alt="Musarrat | LinkedIn" width="25px" src="https://dl.dropboxusercontent.com/s/js962gne343bbn1/linkedin.png" />][linkedin]
+[<img align="left" alt="Musarrat | Instagram" width="25px" src="https://dl.dropboxusercontent.com/s/vn1au9fxztnqkqs/insta.png" />][instagram]
+[<img align="left" alt="Musarrat | Twitter" width="25px" src="https://dl.dropboxusercontent.com/s/83ewzizm8r20f8e/twitter.png" />][twitter]
+[<img align="left" alt="Musarrat | Facebook" width="25px" src="https://dl.dropboxusercontent.com/s/0jisif652f8mkp0/fb.png" />][facebook]
 
 <br />
 
