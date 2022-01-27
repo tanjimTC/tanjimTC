@@ -4,10 +4,9 @@
 
 ## 🧍 I'm a Student, Developer, and Lifelong Learner!
 
-- 🔭 I’m currently working with MERN and MEVN STACK ! 🤞
-- 🌱 I’m currently learning everything 💡
+- 🔭 I’m currently working with MERN/MEVN STACK and Wordpress Plugin Development! 🤞
 - 👯 I’m looking to collaborate with other developers 🤝
-- 🥅 2021 Goals: I plan on getting more familiar with the JavaScript eco-system, and stay healthy & motivated ! 💻
+- 🥅 2022 Goals: I plan on getting more familiar with the Wordpress plugin development, and stay healthy & motivated ! 💻
 - ⚡ Fun fact: I'm tech freak and love to play Battlefield ! 🎮
 
 ### 💬 Connect with me:
@@ -24,13 +23,13 @@
 
 ### 🛠️ Languages and Tools:
 
-[<img align="left" alt="C" width="50px" src="https://www.iconfinder.com/data/icons/hawcons/32/700047-icon-88-document-file-c-512.png" />][website]
+[<img align="left" alt="C" width="50px" src="https://dl.dropboxusercontent.com/s/rmdym0tksu3rfaa/1280px-C_Programming_Language.svg.png" />][website]
 
-[<img align="left" alt="C++" width="45px" src="https://www.iconfinder.com/data/icons/development-2-yellow/60/9_-C_File-_development_coding_programming_code-512.png" />][website]
+[<img align="left" alt="C++" width="45px" src="https://dl.dropboxusercontent.com/s/sw7uiiwjxewghd5/1200px-ISO_C%2B%2B_Logo.png" />][website]
 
-[<img align="left" alt="python" width="40px" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][website]
+[<img align="left" alt="python" width="40px" src="https://dl.dropboxusercontent.com/s/hz4o97hv3ts9em3/4990671.png" />][website]
 
-[<img  alt="php" width="50px" src="https://www.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" />][website]
+[<img  alt="php" width="50px" src="https://dl.dropboxusercontent.com/s/78m7vfikga006zv/1443983.png" />][website]
 
 ##
 
@@ -42,6 +41,8 @@
 
 [<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 
+[<img align="left" alt="Wordpress" width="50px" src="https://dl.dropboxusercontent.com/s/wtvu12ml414xhl3/wordpress.png" />][website]
+
 [<img align="left" alt="NextJs" width="50px" src="https://dl.dropboxusercontent.com/s/epard9fqf4brooa/nextjs.png" />][website]
 
 [<img align="left" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][website]
@@ -50,15 +51,19 @@
 
 [<img align="left" alt="Nodejs" width="50px" src="https://dl.dropboxusercontent.com/s/h17p4swd2c9xy05/4anecy5mdl4pho8w7519.jpg" />][website]
 
+[<img align="left" alt="laravel" width="50px" src="https://dl.dropboxusercontent.com/s/gszfxt30iew4nuy/laravel.png" />][website]
+
 [<img align="left" alt="Expressjs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][website]
 
 [<img   alt="MongoDB" src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="60" />][website]
 
-[<img align="left"  alt="Material UI" width="40px" src="https://material-ui.com/static/logo_raw.svg" />][website]
+[<img align="left"  alt="Material UI" width="40px" src="https://dl.dropboxusercontent.com/s/utylof1k8c7pj4k/material-ui-logo.png" />][website]
 
-[<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left"  alt="tailwind-css" width="50px" src="https://dl.dropboxusercontent.com/s/4568q9pfjeor1nf/tailwind-css.png" />][website]
 
-[<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+
+[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 <br />
 <br />
