@@ -4,10 +4,10 @@
 
 ## 🧍 I'm a Student, Developer, and Lifelong Learner!
 
-- 🔭 I’m currently working with MERN/MEVN STACK and Wordpress Plugin Development! 🤞
+- 🔭 I’m currently working with MERN/MEVN STACK and WordPress Plugin Development! 🤞
 - 👯 I’m looking to collaborate with other developers 🤝
-- 🥅 2023 Goals: I plan on getting more familiar with the Wordpress plugin development, and stay healthy & motivated ! 💻
-- ⚡ Fun fact: I'm tech freak and love to play Battlefield ! 🎮
+- 🥅 2024 Goals: I plan on getting more familiar with the WordPress plugin development, and stay healthy & motivated! 💻
+- ⚡ Fun fact: I'm a tech freak and love to play Battlefield! 🎮
 
 ### 💬 Connect with me:
 
@@ -84,7 +84,7 @@
 
 ### 💻 Top languages
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+_NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github_
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimTC&layout=compact)](https://github.com/tanjimTC)
