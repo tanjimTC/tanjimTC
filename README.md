@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working with MERN/MEVN STACK and WordPress Plugin Development! 🤞
 - 👯 I’m looking to collaborate with other developers 🤝
-- 🥅 2024 Goals: I plan on getting more familiar with the WordPress plugin development, and stay healthy & motivated! 💻
+- 🥅 2025 Goals: I plan on getting more familiar with the WordPress plugin development, and stay healthy & motivated! 💻
 - ⚡ Fun fact: I'm a tech freak and love to play Battlefield! 🎮
 
 ### 💬 Connect with me:
