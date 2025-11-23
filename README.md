@@ -76,7 +76,7 @@
 
 - [What the hack are hooks in React❓](https://medium.com/@tanjimtc74/what-the-hack-are-hooks-in-react-16b4027cd6ba)
 
-- [What the hack are hooks in React❓](https://medium.com/@tanjimtc74/what-the-hack-are-hooks-in-react-16b4027cd6ba)
+- [How to Become a WordPress Core Contributor: A Step-by-Step Guide](https://github.com/tanjimTC/how-to-become-wordpress-core-contributor)
 
 <!-- BLOG-POST-LIST:END -->
 
